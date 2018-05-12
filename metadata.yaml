@@ -1,0 +1,31 @@
+_repo: The-Wheel-of-Life_14696
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Glasgow, Ellen Anderson Gholson
+    birthdate: 1873
+    deathdate: 1945
+    gutenberg_agent_id: '885'
+    url: http://www.gutenberg.org/2009/agents/885
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Glasgow
+description: This novel of Virginians in New York City was hailed by the New York
+  Times as "the first important novel of 1906" and compared favorably to Wharton's
+  House of Mirth. The novel focuses on the struggles of an aspiring young poet, Laura
+  Wilde, but at its true core is Roger Adams, a poignant study in Christ-like self-abnegation.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14696'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (State) -- Social life and customs -- Fiction'
+- !lcc 'PS'
+title: The Wheel of Life
+url: http://www.gutenberg.org/ebooks/14696
